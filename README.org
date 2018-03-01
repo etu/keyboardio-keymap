@@ -2,3 +2,10 @@
 
 ** Default layout
 [[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout.png]]
+
+** Default layout with svorak
+This has some weaknesses which I find instantly:
+ - Missing button for =comma and semicolon=.
+ - Missing button for =<>|=.
+ - Missing button for =* and '=
+[[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout-with-svorak.png]]
