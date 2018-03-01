@@ -1,1 +1,4 @@
 * My keyboardio layout for easy sharing between work and home
+
+** Default layout
+[[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout.png]]
