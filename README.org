@@ -1,7 +1,8 @@
 * My keyboardio layout for easy sharing between work and home
 
-** Default layout
-[[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout.png]]
+** My keyboard layout with svorak
+[[https://github.com/etu/Model01-Firmware][Firmware link]].
+[[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/my-keyboard-layout-with-svorak.png]]
 
 ** Default layout with svorak
 This has some weaknesses which I find instantly:
@@ -9,3 +10,6 @@ This has some weaknesses which I find instantly:
  - Missing button for =<>|=.
  - Missing button for =* and '=
 [[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout-with-svorak.png]]
+
+** Default layout
+[[https://raw.githubusercontent.com/etu/keyboardio-keymap/master/default-keyboard-layout.png]]
